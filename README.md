@@ -700,6 +700,7 @@ The project can be extended with:
 **Program:** VOIS for tech by EduNet Foundation  
 **Project Type:** Major Project  
 **Project:** Seasonal Agriculture Performance Analysis
+
 **Author:** G AmruthaRaju
 
 ---
