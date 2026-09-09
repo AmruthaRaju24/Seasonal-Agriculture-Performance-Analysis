@@ -1,6 +1,6 @@
 # Seasonal Agriculture Performance Analysis
 
-## VOIS × AICTE Internship — Major Project
+## VOIS for tech by Edunet foundation AICTE Internship — Major Project
 
 A data-driven analysis of seasonal agricultural performance across crops, regions, farming practices, environmental conditions, resource usage, and economic outcomes.
 
